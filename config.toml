@@ -1,7 +1,7 @@
 baseURL = "https://nervousturtle.netlify.app/"
 title = "Herbivo(R)es"
-theme = "hugo-theme-m10c"
-paginate = 5
+theme = "m10c"
+paginate = 7
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
@@ -47,9 +47,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   #  lightestColor = "#fff"
 
  # Red and black theme
-#[params.style]
-# darkestColor = "#d35050"
-# darkColor = "#212121"
-# primaryColor = "#ffffff"
-# lightColor = "#a2a2a2"
-# lightestColor = "#d3d3d3"
+[params.style]
+ darkestColor = "#d35050"
+ darkColor = "#212121"
+ primaryColor = "#ffffff"
+ lightColor = "#a2a2a2"
+ lightestColor = "#d3d3d3"
