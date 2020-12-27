@@ -1,0 +1,14 @@
+---
+title: test 55
+author: ''
+date: '2020-12-27'
+slug: test-55
+categories: []
+tags: []
+---
+
+Test 1
+I am referencing a footnote[^1]
+
+
+[^1]: I am the footnote
