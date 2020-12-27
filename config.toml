@@ -1,5 +1,5 @@
 baseURL = "https://nervousturtle.netlify.app/"
-title = "Herbivo(R)es
+title = "Herbivo(R)es"
 theme = "hugo-theme-m10c"
 paginate = 5
 
