@@ -1,4 +1,4 @@
-baseURL = "https://nervousturtle.netlify.app//"
+baseURL = "https://nervousturtle.netlify.app/"
 title = "Herbivo(R)es
 theme = "hugo-theme-m10c"
 paginate = 5
@@ -12,7 +12,6 @@ paginate = 5
     identifier = "tags"
     name = "Tags"
     url = "/tags/"
-
   [[menu.main]]
     identifier = "projects"
     name = "Projects"
