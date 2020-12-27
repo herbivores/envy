@@ -20,7 +20,7 @@ paginate = 5
 [params]
   author = "Herbivores"
   description = "Pain + Reflection = Progress"
-  menu_item_separator = " // "
+  menu_item_separator = " - "
   [[params.social]]
     name = "github"
     url = "https://github.com/herbivores"
