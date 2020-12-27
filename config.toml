@@ -1,5 +1,6 @@
 baseURL = "https://nervousturtle.netlify.app/"
 title = "Herbivo(R)es"
+languageCode = "en-us"
 theme = "hugo-theme-m10c"
 paginate = 5
 
@@ -14,14 +15,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     identifier = "tags"
     name = "Tags"
     url = "/tags/"
-  [[menu.main]]
-    identifier = "projects"
-    name = "Projects"
-    url = "/projects/"
+#  [[menu.main]]
+#    identifier = "projects"
+#    name = "Projects"
+#    url = "/projects/"
   [[menu.main]]
     identifier = "blog"
     name = "Blog"
-    url = "/posts/"
+    url = "/post/"
 
 [params]
   author = "Herbivores"
