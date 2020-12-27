@@ -1,5 +1,5 @@
 baseURL = "https://nervousturtle.netlify.app//"
-title = "Your title"
+title = "Herbivores - R"
 theme = "hugo-theme-m10c"
 paginate = 5
 
@@ -13,13 +13,18 @@ paginate = 5
     name = "Tags"
     url = "/tags/"
 
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+
 [params]
-  author = "John Doe"
-  description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula turpis sit amet elit pretium."
+  author = "Herbivores"
+  description = "Pain + Reflection = Progress"
   menu_item_separator = " - "
   [[params.social]]
     name = "github"
-    url = "https://github.com/gohugoio"
+    url = "https://github.com/herbivores"
   [[params.social]]
     name = "twitter"
     url = "https://twitter.com/gohugoio"
