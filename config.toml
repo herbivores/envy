@@ -1,7 +1,7 @@
 baseURL = "https://nervousturtle.netlify.app/"
 title = "Herbivo(R)es"
 languageCode = "en-us"
-theme = "m10c"
+theme = "hugo-theme-m10c"
 paginate = 5
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -18,7 +18,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   [[menu.main]]
   identifier = "blog"
   name = "Blog"
-  url = "/public/posts/"
+  url = "/post/"
 #  [[menu.main]]
 #    identifier = "projects"
 #    name = "Projects"
